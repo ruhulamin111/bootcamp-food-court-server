@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Noodles",
+        "price": 199,
+        "description": "We had a fabulous evening with friends at The Vista last evening, a new hidden gem in Caledon. The surroundings, view and ambience were all wonderful",
+        "img": "https://ibb.co/1dLjCMj"
+    },
+    {
+        "name": "Prawns",
+        "price": 149,
+        "description": "We had a fabulous evening with friends at The Vista last evening, a new hidden gem in Caledon. The surroundings, view and ambience were all wonderful",
+        "img": "https://ibb.co/NTDVgSf"
+    },
+    {
+        "name": "Beef Steak",
+        "price": 299,
+        "description": "We had a fabulous evening with friends at The Vista last evening, a new hidden gem in Caledon. The surroundings, view and ambience were all wonderful",
+        "img": "https://ibb.co/19KB5BY"
+    },
+    {
+        "name": "Beef Steak Small",
+        "price": 249,
+        "description": "We had a fabulous evening with friends at The Vista last evening, a new hidden gem in Caledon. The surroundings, view and ambience were all wonderful",
+        "img": "https://ibb.co/3YLsXjp"
+    },
+    {
+        "name": "Single Beef Steak",
+        "price": 349,
+        "description": "We had a fabulous evening with friends at The Vista last evening, a new hidden gem in Caledon. The surroundings, view and ambience were all wonderful",
+        "img": "https://ibb.co/1Kqywm1"
+    },
+    {
+        "name": "King Beef Steak",
+        "price": 499,
+        "description": "We had a fabulous evening with friends at The Vista last evening, a new hidden gem in Caledon. The surroundings, view and ambience were all wonderful",
+        "img": "https://ibb.co/FDt8Krh"
+    }
+]

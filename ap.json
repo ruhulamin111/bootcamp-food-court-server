@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Set Menu",
+        "price": 599,
+        "description": "We had a fabulous evening with friends at The Vista last evening, a new hidden gem in Caledon. The surroundings, view and ambience were all wonderful",
+        "img": "https://ibb.co/SRjNbp1"
+    },
+    {
+        "name": "Donat",
+        "price": 499,
+        "description": "We had a fabulous evening with friends at The Vista last evening, a new hidden gem in Caledon. The surroundings, view and ambience were all wonderful",
+        "img": "https: //ibb.co/vxhZrxD"
+    },
+    {
+        "name": "Couple Burger",
+        "price": 299,
+        "description": "We had a fabulous evening with friends at The Vista last evening, a new hidden gem in Caledon. The surroundings, view and ambience were all wonderful",
+        "img": "https: //ibb.co/Z8LxvvQ"
+    },
+    {
+        "name": "Delicious Food",
+        "price": 399,
+        "description": "We had a fabulous evening with friends at The Vista last evening, a new hidden gem in Caledon. The surroundings, view and ambience were all wonderful",
+        "img": "https: //ibb.co/2cTPTgh"
+    },
+    {
+        "name": "King Burger",
+        "price": 199,
+        "description": "We had a fabulous evening with friends at The Vista last evening, a new hidden gem in Caledon. The surroundings, view and ambience were all wonderful",
+        "img": "https: //ibb.co/Zm3z3DM"
+    },
+    {
+        "name": "Lemon Juice",
+        "price": 99,
+        "description": "We had a fabulous evening with friends at The Vista last evening, a new hidden gem in Caledon. The surroundings, view and ambience were all wonderful",
+        "img": "https: //ibb.co/W2Qphg4"
+    }
+]
