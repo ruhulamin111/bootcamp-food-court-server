@@ -29,6 +29,14 @@ async function run() {
             const result = await appitizersCollection.find({}).toArray();
             res.send(result)
         })
+        app.get('/maincourse', async (req, res) => {
+            const result = await mainCourseCollection.find({}).toArray();
+            res.send(result)
+        })
+        app.get('/desart', async (req, res) => {
+            const result = await desartCollection.find({}).toArray();
+            res.send(result)
+        })
 
 
 
