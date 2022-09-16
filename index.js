@@ -24,6 +24,7 @@ async function run() {
         const appitizersCollection = client.db('foodcourt').collection('appitizers')
         const desartCollection = client.db('foodcourt').collection('desart')
         const mainCourseCollection = client.db('foodcourt').collection('maincourse')
+        const ordersCollection = client.db('foodcourt').collection('orders')
 
         app.get('/appitizers', async (req, res) => {
             const result = await appitizersCollection.find({}).toArray();
@@ -38,13 +39,27 @@ async function run() {
             res.send(result)
         })
 
+        app.post('/orders', async (req, res) => {
+            const order = req.body;
+            const result = await ordersCollection.insertOne(order)
+            res.send(result)
+        })
 
+        app.get('/orders', async (req, res) => {
+            const result = await ordersCollection.find({}).toArray()
+            res.send(result)
+        })
 
+        app.delete('/orders', async (req, res) => {
+            const result = await ordersCollection.deleteOne({})
+            res.send(result)
+        })
 
+        app.delete('/orders', async (req, res) => {
+            const result = await ordersCollection.deleteOne({})
+            res.send(result)
+        })
 
-
-
-        console.log('connect');
 
     }
     catch (error) {
